@@ -1,0 +1,23 @@
+{
+  "name": "TON Owl #2",
+  "description": "Owl for everyone.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Toxic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Cap"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tImage/1.jpg"
+}

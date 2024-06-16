@@ -1,0 +1,27 @@
+{
+  "name": "TON Owl #7",
+  "description": "Owl for everyone.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gray Scarf"
+    },
+    {
+      "trait_type": "Face accessory",
+      "value": "Confused"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tImage/6.jpg"
+}

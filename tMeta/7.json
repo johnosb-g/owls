@@ -1,0 +1,31 @@
+{
+  "name": "TON Owl #8",
+  "description": "Owl for everyone.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Bow-Tie"
+    },
+    {
+      "trait_type": "Face accessory",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Birthday"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tImage/7.jpg"
+}

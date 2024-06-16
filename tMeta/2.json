@@ -1,0 +1,27 @@
+{
+  "name": "TON Owl #3",
+  "description": "Owl for everyone.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Face accessory",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Gray Cap"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tImage/2.jpg"
+}

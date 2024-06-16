@@ -1,0 +1,31 @@
+{
+  "name": "TON Owl #5",
+  "description": "Owl for everyone.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light-Yellow"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Face accessory",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fire Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fire"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tImage/4.jpg"
+}

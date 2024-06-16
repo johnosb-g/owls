@@ -1,0 +1,31 @@
+{
+  "name": "TON Owl #4",
+  "description": "Owl for everyone.",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Scarf"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Fire Sunglasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Gray Cap"
+    }
+  ],
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tImage/3.jpg"
+}
