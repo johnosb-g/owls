@@ -1,0 +1,11 @@
+{
+  "name": "TON Owls",
+  "description": "Owl for everyone.",
+  "image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tInfo/logo.gif",
+  "external_url": null,
+  "external_link": null,
+  "social_links": [
+    "https://t.me/ton_owls"
+  ],
+  "cover_image": "https://raw.githubusercontent.com/johnosb-g/owls/main/tInfo/back.png"
+}
